@@ -36,4 +36,4 @@ We reserve the right to update this privacy policy as necessary. We will notify 
 
 **Contact Us**
 
-If you have questions or concerns about our Privacy Policy, please contact us.
+If you have questions or concerns about our Privacy Policy, please contact us. (cleversonpelegrini@gmail.com)
