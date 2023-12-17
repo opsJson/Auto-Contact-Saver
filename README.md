@@ -15,6 +15,8 @@ When saving, an hourglass icon (⌛) will be at the end of the name, signaling t
 
 If you remove this extension, the Google app permission page will appear. You must remove contacts permission from this extension to eventually be able to reinstall it.
 
+*This extension just collects the name and phone number of your new Whatsapp contacts, and discards them after sending them to Goole's servers via People API.*
+
 # Privacy Policy
 This privacy policy describes how we collect, use and share information when you use the Extension.
 
