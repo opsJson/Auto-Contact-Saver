@@ -1,5 +1,22 @@
 Baixe a extensão: [Auto Contact Saver for Whatsapp Web](https://chromewebstore.google.com/detail/auto-contact-saver-for-wh/nloadjiefippecgegockfpioobngphnb)
 
+# Como ela funciona?
+<img src="https://github.com/opsJson/Auto-Contact-Saver/assets/54485405/ba3e39b2-41e1-4d8d-b3d3-9301262c9120" alt="drawing" width="300"/>
+<img src="https://github.com/opsJson/Auto-Contact-Saver/assets/54485405/dbbea60c-836a-4873-b2a2-5d42f70535c3" alt="drawing" width="300"/>
+<img src="https://github.com/opsJson/Auto-Contact-Saver/assets/54485405/3d9b75dd-92b9-43dc-b158-e2b4fdb6441c" alt="drawing" width="300"/>
+<img src="https://github.com/opsJson/Auto-Contact-Saver/assets/54485405/1baea9f3-9091-4e88-b9fc-88bf8517273e" alt="drawing" width="300"/>
+<img src="https://github.com/opsJson/Auto-Contact-Saver/assets/54485405/e9b0cbbb-8519-4824-9fa7-a76062963838" alt="drawing" width="300"/>
+
+Salve novos contatos do Whatsapp automaticamente.
+
+Após instalar a extensão, você terá que dar permissão de contatos da sua conta do Google, a mesma conectada no seu celular com o Whatsapp. É apenas isso.
+
+Essa extensão salva automaticamente os novos contatos, quando você ou eles enviam uma mensagem. Sequer há necessidade de deixar a janela da conversa aberta.
+
+Ao salvar, um ícone de ampulheta (⌛) estará no final do nome, sinalizando que deu tudo certo, e só resta aguardar até 5 minutos pro Google mandar o contato para o seu celular.
+
+Caso você remova essa extensão, a página de permissão de aplicativos do Google irá aparecer. Você deve remover a permissão de contatos dessa extensão para, eventualmente, poder reinstalá-la.
+
 # Política de Privacidade
 
 Esta política de privacidade descreve como coletamos, usamos e compartilhamos informações quando você utiliza a Extensão.
