@@ -13,29 +13,7 @@ This extension automatically saves new contacts, there's no need to even leave t
 
 When saving, an hourglass icon (⌛) will be at the end of the name, signaling that everything went well, and you only have to wait up to 5 minutes for Google to send the contact to your cell phone.
 
-If you remove this extension, the Google app permission page will appear. You must remove contacts permission from this extension to eventually be able to reinstall it.
-
-*This extension just collects the name and phone number of your new Whatsapp contacts, and discards them after sending them to Goole's servers via People API.*
-
 # Privacy Policy
-This privacy policy describes how we collect, use and share information when you use the Extension.
+**Auto Contact Saver for Whatsapp Web** use and transfer to any other app of information received from Google APIs will adhere to Google API Services User Data Policy, including the Limited Use requirements.
 
-**Information Collected**
-
-The Extension collects and saves information related to WhatsApp contacts on the user's device. This information is stored locally and is not transmitted to our servers.
-
-**Use of Information**
-
-The information collected is used exclusively for the Extension's main functionality: saving WhatsApp contacts on the user's cell phone. We do not share this information with third parties.
-
-**Security**
-
-We value the security of user information. The information collected is stored locally on the user's device, and we do not access or store this information on our servers.
-
-**Changes to This Privacy Policy**
-
-We reserve the right to update this privacy policy as necessary. We will notify users of changes by posting the new privacy policy on the Extension.
-
-**Contact Us**
-
-If you have questions or concerns about our Privacy Policy, please contact us. (cleversonpelegrini@gmail.com)
+**Auto Contact Saver for Whatsapp Web** just collects the name and phone number of your new Whatsapp contacts, and discards them after sending them to Google's servers via People API.
