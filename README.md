@@ -16,6 +16,6 @@ When saving, an hourglass icon (⌛) will be at the end of the name, signaling t
 # Privacy Policy
 **Auto Contact Saver for Whatsapp Web** use and transfer to any other app of information received from Google APIs will adhere to [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy), including the Limited Use requirements.
 
-this extension just collects the name and phone number of your new Whatsapp contacts, and discards them entirely after sending them to Google's servers via People API.
+This extension just collects the name and phone number of your new Whatsapp contacts, and discards them entirely after sending them to Google's servers via People API.
 
-this extension does not read, access, uses or share any data from your Google Contacts, it only writes.
+This extension does not read, access, uses or share any data from your Google Contacts, it only writes.
