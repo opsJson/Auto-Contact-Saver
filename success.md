@@ -1,9 +1,8 @@
 ---
 title: Auto Contact Saver for Whatsapp Web
+description: Sucesss!
 ---
 
-## Sucess!
-
-![]("assets./logo.png")
+![](assets/logo.png)
 
 You can close this tab.
