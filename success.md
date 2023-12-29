@@ -3,6 +3,6 @@ title: Auto Contact Saver for Whatsapp Web
 description: Sucesss!
 ---
 
-![](assets/logo.png)
+🇧🇷 Você pode fechar esta aba.
 
-You can close this tab.
+🇺🇸 You can close this tab.
