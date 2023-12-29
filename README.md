@@ -1,13 +1,34 @@
+[Leia o site em português](portugues.md)
+
+# Auto Contact Saver
 Download now: [Auto Contact Saver for Whatsapp Web](https://chromewebstore.google.com/detail/auto-contact-saver-for-wh/nloadjiefippecgegockfpioobngphnb)
 
-# How it Works?
-<img src="https://github.com/opsJson/Auto-Contact-Saver/assets/54485405/ba3e39b2-41e1-4d8d-b3d3-9301262c9120" alt="drawing" width="300"/>
-<img src="https://github.com/opsJson/Auto-Contact-Saver/assets/54485405/dbbea60c-836a-4873-b2a2-5d42f70535c3" alt="drawing" width="300"/>
-<img src="https://github.com/opsJson/Auto-Contact-Saver/assets/54485405/3d9b75dd-92b9-43dc-b158-e2b4fdb6441c" alt="drawing" width="300"/>
-<img src="https://github.com/opsJson/Auto-Contact-Saver/assets/54485405/1baea9f3-9091-4e88-b9fc-88bf8517273e" alt="drawing" width="300"/>
-<img src="https://github.com/opsJson/Auto-Contact-Saver/assets/54485405/e9b0cbbb-8519-4824-9fa7-a76062963838" alt="drawing" width="300"/>
+Subscribe now: [BRL$10.00 per month](https://buy.stripe.com/fZe7t9cl5dYqcnu7ss)
 
-After installing the extension, you will have to give permission for contacts from your Google account, the same one connected to your cell phone with Whatsapp. It's just that.
+# Setup
+
+## App
+
+Check if the "Google Contacts" application is installed on your smartphone.
+
+Check that the email connected to the app is the same email you will use in the extension.
+
+Check if automatic contact synchronization is enabled in the app settings.
+
+<img src="assets/instructions.png" alt="drawing"/>
+
+## Extension
+
+Authorize the extension to write to your contacts.
+
+<img src="assets/authorize.png" alt="drawing"/>
+
+Purchase a monthly subscription to activate the extension.
+
+<img src="assets/subscribe.png" alt="drawing"/>
+
+# How it works?
+<img src="assets/example.png" alt="drawing"/>
 
 This extension automatically saves new contacts, there's no need to even leave the conversation window open.
 
