@@ -1,5 +1,11 @@
 [Leia o site em português](portugues.md)
 
+<style>
+footer {
+  display: none !important;
+}
+</style>
+
 # Auto Contact Saver
 Download now: [Auto Contact Saver for Whatsapp Web](https://chromewebstore.google.com/detail/auto-contact-saver-for-wh/nloadjiefippecgegockfpioobngphnb)
 
