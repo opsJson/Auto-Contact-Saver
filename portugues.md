@@ -3,6 +3,12 @@ title: Auto Contact Saver
 ---
 [Read the site in english](README.md)
 
+<style>
+footer {
+  display: none !important;
+}
+</style>
+
 # Auto Contact Saver
 Baixe agora: [Auto Contact Saver for Whatsapp Web](https://chromewebstore.google.com/detail/auto-contact-saver-for-wh/nloadjiefippecgegockfpioobngphnb)
 
