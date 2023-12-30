@@ -10,7 +10,7 @@ footer {
 </style>
 
 # Auto Contact Saver
-Baixe agora: [Auto Contact Saver for Whatsapp Web](https://chromewebstore.google.com/detail/auto-contact-saver-for-wh/nloadjiefippecgegockfpioobngphnb)
+Baixe agora: [Auto Contact Saver for Whatsapp Web](https://chromewebstore.google.com/)
 
 Assine agora: [R$10,00 por mês](https://buy.stripe.com/fZe7t9cl5dYqcnu7ss)
 
