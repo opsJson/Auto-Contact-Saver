@@ -31,6 +31,8 @@ Authorize the extension to write to your contacts.
 
 Purchase a monthly subscription to activate the extension.
 
+### The email provided upon payment must be the same email connected to your cell phone.
+
 <img src="assets/subscribe.png" alt="drawing"/>
 
 # How it works?

@@ -34,6 +34,8 @@ Autorize a extensão a escrever nos seus contatos.
 
 Compre uma assinatura mensal para ativar a extensão.
 
+### O email fornecido no pagamento deve ser o mesmo email conectado no seu celular.
+
 <img src="assets/subscribe.png" alt="drawing"/>
 
 # O que a extensão faz?
