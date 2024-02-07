@@ -17,7 +17,7 @@ Subscribe now: [BRL$10.00 per month](https://buy.stripe.com/fZe7t9cl5dYqcnu7ss)
 
 Check if the "Google Contacts" application is installed on your smartphone.
 
-Check that the email connected to the app is the same email you will use in the extension.
+Check if the email connected to the app is the same email you will use in the extension.
 
 Check if automatic contact synchronization is enabled in the app settings.
 
