@@ -1,3 +1,13 @@
+---
+title: Audio to Text for Whatsapp Web
+---
+
+<style>
+footer {
+  display: none !important;
+}
+</style>
+
 # Política de Privacidade
 A extensão **Audio to Text for Whatsapp Web** respeita e valoriza a privacidade dos seus usuários. Esta política de privacidade descreve como tratamos as informações que coletamos quando você utiliza nossa extensão.
 
