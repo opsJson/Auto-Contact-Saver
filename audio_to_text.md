@@ -1,5 +1,6 @@
 ---
 title: Audio to Text for Whatsapp Web
+description: Generate transcripts of all audio messages automatically!
 ---
 
 <style>
