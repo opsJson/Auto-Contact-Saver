@@ -6,8 +6,6 @@ footer {
 }
 </style>
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6137707490432280" crossorigin="anonymous"></script>
-
 # Auto Contact Saver
 Download now: [Auto Contact Saver for Whatsapp Web](https://chromewebstore.google.com/detail/auto-contact-saver-for-wh/nloadjiefippecgegockfpioobngphnb)
 
