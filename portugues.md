@@ -41,9 +41,9 @@ Compre uma assinatura mensal para ativar a extensão.
 # O que a extensão faz?
 <img src="assets/example.png" alt="drawing"/>
 
-Essa extensão salva automaticamente os novos contatos, quando você ou eles enviam uma mensagem. Sequer há necessidade de deixar a janela da conversa aberta.
+Essa extensão salva automaticamente os novos contatos, quando você ou eles enviam uma mensagem. Sequer há necessidade de deixar a janela da conversa aberta. Você também pode editar o nome dos contatos salvos de uma forma fácil.
 
-Ao salvar, um ícone de ampulheta (⌛) estará no final do nome, sinalizando que deu tudo certo, e só resta aguardar até 5 minutos pro Google mandar o contato para o seu celular.
+Ao salvar, o contato estará imediatamente no seu [Google Contatos](https://contacts.google.com/), e só resta aguardar até 5 minutos para seus contatos serem sincronizados com seu celular.
 
 # Termos de Privacidade
 O uso e transferência de informações recebidas das APIs do Google pelo **Auto Contact Saver for Whatsapp Web** obedecerção à [Política de dados do usuário dos serviços de API do Google](https://developers.google.com/terms/api-services-user-data-policy), incluindo os requisitos de uso limitado.

@@ -38,9 +38,9 @@ Purchase a monthly subscription to activate the extension.
 # How it works?
 <img src="assets/example.png" alt="drawing"/>
 
-This extension automatically saves new contacts, there's no need to even leave the conversation window open.
+This extension automatically saves new contacts when you or they send you a message. There is no need to leave the conversation window open. You can also easily edit the name of saved contacts.
 
-When saving, an hourglass icon (⌛) will be at the end of the name, signaling that everything went well, and you only have to wait up to 5 minutes for Google to send the contact to your cell phone.
+When you save, the contact will be immediately in your [Google Contacts](https://contacts.google.com/), and you just have to wait up to 5 minutes for your contacts to be synchronized with your phone.
 
 # Privacy Policy
 **Auto Contact Saver for Whatsapp Web** use and transfer to any other app of information received from Google APIs will adhere to [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy), including the Limited Use requirements.
