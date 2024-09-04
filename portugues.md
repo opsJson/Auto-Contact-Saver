@@ -3,6 +3,18 @@ title: Auto Contact Saver
 ---
 [Read the site in english](README.md)
 
+<head>
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-11290256729">
+</script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-11290256729');
+</script>
+</head>
+
 <style>
 footer {
   display: none !important;
