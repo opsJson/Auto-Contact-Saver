@@ -1,5 +1,15 @@
 [Leia o site em português](portugues.md)
 
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-11290256729">
+</script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-11290256729');
+</script>
+
 <style>
 footer {
   display: none !important;
